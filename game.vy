@@ -1,3 +1,5 @@
+# @version ^0.3.3
+
 # Declare global variables
 winner: public(bool)
 active: public(bool)
